@@ -12,3 +12,14 @@ Create meaningful visualizations from the Titanic dataset.
 - Python
 - Pandas
 - Matplotlib
+
+## Dashboard Preview
+
+This dashboard includes:
+
+- Overall Survival Analysis
+- Survival by Gender
+- Survival Rate by Passenger Class
+- Age Distribution Analysis
+- Gender vs Class Heatmap
+- Fare Distribution Analysis
